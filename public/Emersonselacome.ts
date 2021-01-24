@@ -4,6 +4,9 @@ export class emersonselacome {
         this.selacomeENTERA = true;
         this.fecha = new Date();
 
+
+        
+
     }
 
     selacomeid: boolean;
